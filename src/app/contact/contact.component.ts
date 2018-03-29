@@ -49,7 +49,7 @@ import { Component, OnInit } from '@angular/core';
             class="button is-large is-warning"
             [disabled] = "contactForm.invalid"
             >
-          Send!
+          Send !!!
           </button>
         </form>
       </div>
